@@ -31,3 +31,4 @@
 import Contador from './Contador';
 <Contador />
 
+export default Contador;
